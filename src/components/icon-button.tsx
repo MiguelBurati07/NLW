@@ -1,8 +1,7 @@
 import { ComponentProps, ReactNode } from "react";
 
 interface IconButtonProps extends ComponentProps<"button"> {}
-{
-}
+
 
 export function IconButton(props: IconButtonProps) {
   return (
