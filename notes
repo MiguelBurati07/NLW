@@ -1,0 +1,12 @@
+orval
+
+biome
+
+netx.js
+
+tailwind.css
+
+'use cliente' -> para funcionar js na pag web
+
+
+exemplo de condicao -> {rankingPosition ? `${rankingPosition}°` : '-'}
